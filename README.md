@@ -1,4 +1,4 @@
-# Experimental Weblate
+# Experimental Webla
 
 > **Important Note**: This is not meant for use yet.
 
